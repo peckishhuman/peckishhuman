@@ -11,7 +11,7 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 
 ### Professional Experience
 
-- Founding Software Developer, Fullhouse (ex Reshuffle) (May 2024-present)
+- Founding Software Developer, Fullhouse (ex Reshuffle) (13th May 2024-present)
 - Freelance Software Developer (2022-2024)
 
 ### Skills
@@ -26,9 +26,6 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 
 ### GitHub's Weekly Stats</summary>
 [![GitHub Streak](https://streak-stats.demolab.com?user=alokjha2&mode=weekly)](https://git.io/streak-stats)
-
-### GitHub's Daily Stats</summary>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alokjha2)](https://git.io/streak-stats)
 
 
 
