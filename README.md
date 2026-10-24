@@ -4,6 +4,7 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 
 ### About Me
 
+- Building [Goofyface](https://goofyface.art/)
 - [LinkedIn](https://www.linkedin.com/in/peckishhuman)
 - [Personal Site](https://peckishhuman.com)
 
@@ -12,5 +13,5 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 
 
 
-
+[peckishhuman@gmail.com](mailto:peckishhuman@gmail.com). Always happy to talk!
 
