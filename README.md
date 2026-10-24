@@ -13,6 +13,7 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
   <img
     src="https://streak-stats.demolab.com?user=peckishhuman&mode=weekly&v=2"
     width="350"
+    height="350"
     alt="GitHub Streak"
   />
 </a>
