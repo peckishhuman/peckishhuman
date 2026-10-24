@@ -25,9 +25,9 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 - Other tools - Git, Postman, Github actions
 
 ### GitHub's Weekly Stats</summary>
-[![GitHub Streak](https://streak-stats.demolab.com?user=alokjha2&mode=weekly&v=2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=peckishhuman&mode=weekly&v=2)](https://git.io/streak-stats)
 
 
 
-![](https://komarev.com/ghpvc/?username=alokjha2)
+![](https://komarev.com/ghpvc/?username=peckishhuman)
 
