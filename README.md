@@ -10,7 +10,7 @@ Hello! I'm Peckish Human, a software developer with 2+ years building software a
 
 ### GitHub's Weekly Stats</summary>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=peckishhuman&mode=weekly&v=2" width="350" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=peckishhuman&mode=weekly&v=2" width="350" height="200" alt="GitHub Streak" />
 </a>
 
 Find me online under the username peckishhuman, or send me an email at [peckishhuman@gmail.com](mailto:peckishhuman@gmail.com). Always happy to talk!
